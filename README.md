@@ -1,6 +1,6 @@
 ## Info
 
-Cross-platform desktop application
+Cross-platform desktop application to upload and manage sale reports
 
 ## Technologies
 
@@ -11,7 +11,16 @@ Project is created with:
 - Firebase
 - TypeScript
 
+## Features
+- Sign in
+- Sign Up with Firebase Auth
+-  Upload and manage files using Firebase Firestore/Storage
+
 ## Screen Capture
+![SaleCollect 6_21_2021 1_58_26 AM](https://user-images.githubusercontent.com/40340485/122690825-5a4c1500-d234-11eb-8a8b-fa46163a10f6.png)
+![SaleCollect 6_21_2021 1_56_25 AM](https://user-images.githubusercontent.com/40340485/122690775-fde8f580-d233-11eb-9804-988affb613d4.png)
+![SaleCollect 6_21_2021 2_01_07 AM](https://user-images.githubusercontent.com/40340485/122690862-97180c00-d234-11eb-84a1-3a2c1186d039.png)
+
 
 ## Install from Release
 
