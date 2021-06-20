@@ -1,0 +1,10 @@
+/*
+ * @NOTE: Prepend a `~` to css file paths that are in your node_modules
+ *        See https://github.com/webpack-contrib/sass-loader#imports
+ */
+@import '~antd/dist/antd.css';
+
+.page-header {
+  border-bottom: 2px solid #f3f2f2;
+  padding: 16px 36px;
+}
